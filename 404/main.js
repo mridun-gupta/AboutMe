@@ -9,7 +9,7 @@ function updateTimer() {
             timerElement.textContent = timeRemaining;
         });
     } else {
-        window.location.href = "https://about.ship.mridungupta.eu.org/";
+        window.location.href = "https://AboutMe.ship.mridungupta.eu.org/";
     }
 }
 
